@@ -15,12 +15,6 @@
 ### 📈 GitHub Stats
 ![Asfar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asfar-07&show_icons=true&theme=radical)
 
-**This Week's Challenge** :  
-```javascript
-let status = false;
-let str = status.toString();
-console.log(Boolean(str));  // What will this output?
-```
 ⭐️ From Asfar(https://github.com/Asfar-07)
 + [0] = Give up  
 + [1] = Push harder
