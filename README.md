@@ -41,63 +41,94 @@ const asfar = {
         "
       >
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg"
           alt="HTML5"
           width="50"
           height="50"
           style="margin: 0 10px"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg"
           alt="CSS3"
           width="50"
           height="50"
           style="margin: 0 10px"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-plain.svg"
           alt="JavaScript"
           width="50"
           height="50"
           style="margin: 0 10px"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg"
           alt="Java"
           width="50"
           height="50"
           style="margin: 0 10px"
         />
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg"
           alt="Python"
           width="50"
           height="50"
           style="margin: 0 10px"
         />
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
-          alt="Rust"
-          width="50"
-          height="50"
-          style="margin: 0 10px"
-        />
       </div>
-      <h3 style="margin: 20px 0;">Tools & Platforms</h3>
+      <h3 style="margin: 20px 0;">Framework & Platforms</h3>
       <table align="center" style="border: none; background-color: transparent">
         <tr style="background-color: transparent">
           <td align="center" style="border: none">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-              alt="Docker"
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg"
+              alt="SpringBoot"
               width="60"
               height="60"
             /><br />
-            <strong>Docker</strong>
+            <strong>SpringBoot</strong>
           </td>
           <td align="center" style="border: none">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg"
+              alt="React.js"
+              width="60"
+              height="60"
+            /><br />
+            <strong>React.js</strong>
+          </td>
+          <td align="center" style="border: none">
+            <img
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/express/express-original.svg"
+              alt="Express.js"
+              width="60"
+              height="60"
+            /><br />
+            <strong>Express.js</strong>
+          </td>
+           <td align="center" style="border: none">
+            <img
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/threejs/threejs-original.svg"
+              alt="Three.js"
+              width="60"
+              height="60"
+            /><br />
+            <strong>Three.js</strong>
+          </td>
+           <td align="center" style="border: none">
+            <img
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg"
+              alt="VScode"
+              width="60"
+              height="60"
+            /><br />
+            <strong>VSCode</strong>
+          </td>
+        </tr>
+        <tr style="background-color: transparent">
+        <td align="center" style="border: none">
+            <img
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg"
               alt="Git"
               width="60"
               height="60"
@@ -106,34 +137,40 @@ const asfar = {
           </td>
           <td align="center" style="border: none">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg"
               alt="GitHub"
               width="60"
               height="60"
             /><br />
             <strong>GitHub</strong>
           </td>
-        </tr>
-        <tr style="background-color: transparent">
           <td align="center" style="border: none">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-              alt="Linux"
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows8/windows8-original.svg"
+              alt="Windows"
               width="60"
               height="60"
             /><br />
-            <strong>Linux</strong>
+            <strong>Windows</strong>
           </td>
           <td align="center" style="border: none">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-              alt="Node.js"
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-original.svg"
+              alt="Postman"
               width="60"
               height="60"
             /><br />
-            <strong>Node.js</strong>
+            <strong>Postman</strong>
           </td>
-          <td align="center" style="border: none"></td>
+          <td align="center" style="border: none">
+            <img
+              src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/intellij/intellij-original.svg"
+              alt="Intellij"
+              width="60"
+              height="60"
+            /><br />
+            <strong>Intellij</strong>
+          </td>
         </tr>
       </table>
     </div>
