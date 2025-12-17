@@ -187,6 +187,10 @@ const asfar = {
         alt="Most Languages"
       />
     </div>
+    <div align="center">
+      
+  ![snake gif](https://github.com/Asfar-07/Asfar-07/blob/output/github-snake-dark.svg)
+    </div>
     <h3 align="center" style="margin: 30px 0;">🌐 Let's Connect!</h3>
     <p align="center">
       <a href="mailto:asfarmuhammedns@gmail.com">
@@ -204,4 +208,4 @@ const asfar = {
           src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"
         />
       </a>
-    </p>    
+    </p>
