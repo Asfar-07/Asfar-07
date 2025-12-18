@@ -29,6 +29,15 @@ const asfar = {
   mindset: "Build once. Build right."
 };
 ```
+Passionate Full Stack Developer focused on building scalable, user-friendly applications.<br/>
+Constantly learning, experimenting, and growing through real-world projects.
+
+## 🚀 Future Plans
+- Join and contribute to a leading technology-driven company
+- Continuously build meaningful and scalable projects
+- Expand skills into cloud computing and modern infrastructure
+- Create a small independent game as a personal passion project
+
 <div align="center">
       <h3 style="margin:0 0 30px 0;">Programming Languages</h3>
       <div
@@ -209,3 +218,12 @@ const asfar = {
         />
       </a>
     </p>
+    <div align="center">
+  <div style="background: linear-gradient(90deg, #22c55e, #38bdf8); padding: 12px; border-radius: 10px; max-width: 650px;">
+    <p style="margin: 0; color: #0f172a; font-weight: 500;">
+      Passionate Full Stack Developer focused on building scalable, user-friendly applications.<br/>
+      Constantly learning, experimenting, and growing through real-world projects.
+    </p>
+  </div>
+</div>
+
