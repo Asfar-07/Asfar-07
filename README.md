@@ -32,11 +32,6 @@ const asfar = {
 Passionate Full Stack Developer focused on building scalable, user-friendly applications.<br/>
 Constantly learning, experimenting, and growing through real-world projects.
 
-## 🚀 Future Plans
-- Join and contribute to a leading technology-driven company
-- Continuously build meaningful and scalable projects
-- Expand skills into cloud computing and modern infrastructure
-- Create a small independent game as a personal passion project
 
 <div align="center">
       <h3 style="margin:0 0 30px 0;">Programming Languages</h3>
