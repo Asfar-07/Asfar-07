@@ -185,14 +185,8 @@ Constantly learning, experimenting, and growing through real-world projects.
     >
       <img  src="https://github-readme-stats.vercel.app/api?username=Asfar-07&layout=compact&theme=radical" 
         style="height: 200px"/> 
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfar-07&layout=compact&theme=radical"
-        style="height: 200px"
-        alt="Most Languages"
-      />
     </div>
     <div align="center">
-      
   ![snake gif](https://github.com/Asfar-07/Asfar-07/blob/output/github-snake-dark.svg)
     </div>
     <h3 align="center" style="margin: 30px 0;">🌐 Let's Connect!</h3>
