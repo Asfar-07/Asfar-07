@@ -187,6 +187,7 @@ Constantly learning, experimenting, and growing through real-world projects.
         style="height: 200px"/> 
     </div>
     <div align="center">
+      
   ![snake gif](https://github.com/Asfar-07/Asfar-07/blob/output/github-snake-dark.svg)
     </div>
     <h3 align="center" style="margin: 30px 0;">🌐 Let's Connect!</h3>
