@@ -178,14 +178,6 @@ Constantly learning, experimenting, and growing through real-world projects.
         </tr>
       </table>
     </div>
-    <h3 align="center" style="margin: 30px 0;">📊 GitHub Status</h3>
-    <div
-      align="center"
-      style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px"
-    >
-      <img  src="https://github-readme-stats.vercel.app/api?username=Asfar-07&layout=compact&theme=radical" 
-        style="height: 200px"/> 
-    </div>
     <div align="center">
       
   ![snake gif](https://github.com/Asfar-07/Asfar-07/blob/output/github-snake-dark.svg)
