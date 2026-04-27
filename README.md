@@ -23,8 +23,8 @@ const asfar = {
   interests: [
     "Scalable Systems",
     "Clean Architecture",
-    "Distributed Systems",
-    "AI-powered Products"
+    "Modern UI Design",
+    "Clean Database Structure"
   ],
   mindset: "Build once. Build right."
 };
